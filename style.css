@@ -1,0 +1,47 @@
+html{background-image: url(project-images/Zoo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+img {
+    border-radius: 8px;
+  }
+  img {
+    width: 700px;
+    height: 600px;
+    object-fit: scale-down;
+    
+  }
+  img {
+    display: block;
+    margin-left: 0%;
+    margin-right: auto;
+    width: 50%;
+  }
+
+    li{color: aquamarine;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+        
+}
+
+    header{text-align: center;
+    font-style: normal;
+color: beige;
+font-size: 60px;
+}
+h2{color: bisque;
+font-size: 35px;
+
+
+}
+h3{color: bisque;
+    font-size: 35px}
+h4{color: bisque;
+    font-size: 35px}
+    h5{color: bisque;
+        font-size: 35px}
+        h6{color: bisque;
+            font-size: 35px}
